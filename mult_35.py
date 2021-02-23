@@ -48,3 +48,7 @@ print(multiples_3_5(10))
 
 # input: 100; output: ?
 print(multiples_3_5(1000))
+
+
+
+# This means every number that divides by 15 was counted twice, and it should be done only once. Because of this, you have an extra set of numbers started with 15 all the way to 990 that has to be removed from (b)&(c).
